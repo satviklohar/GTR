@@ -1,0 +1,12 @@
+.wallpaper{
+    background-image: url(/images/Screenshot\ 2026-03-25\ at\ 3.29.37\ PM.png);
+    height: 500px;
+    background-position: center;
+    border: 6px solid black;
+}
+
+.feature{
+    text-align: center;
+    font-size: 50px;
+    color: darkred;
+}
